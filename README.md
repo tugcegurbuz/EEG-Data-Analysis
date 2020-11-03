@@ -19,3 +19,5 @@ Includes data analysis codes for EEG data using EEGLAB in Matlab. Codes are form
  * Chapter7: Selecting data epochs and comparing (You can find .pdf file formed by me as demonstration)
  
  * Chapter8: Plotting ERP images (You can find .pdf file formed by me as demonstration)
+ 
+ 3.Chapter11: Time/Frequency Decomposition (You can find .png files formed by me as demonstration)
