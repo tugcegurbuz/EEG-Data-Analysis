@@ -11,4 +11,11 @@ Includes data analysis codes for EEG data using EEGLAB in Matlab. Codes are form
   
   * Chapter4: Data preprocessing (high-low pass filters, re-referencing data)
   
-2.
+2.Chapter5-Chapter8: This folders include the data coming from chapter4 and chapter5.
+ * Chapter5: Extracting epochs
+ 
+ * Chapter6: Averaging the data (You can find .pdf file formed by me as demonstration)
+ 
+ * Chapter7: Selecting data epochs and comparing (You can find .pdf file formed by me as demonstration)
+ 
+ * Chapter8: Plotting ERP images (You can find .pdf file formed by me as demonstration)
