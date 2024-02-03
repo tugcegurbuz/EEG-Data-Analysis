@@ -1,6 +1,6 @@
 # EEG-Data-Analysis
 
-Includes data analysis codes for EEG data using EEGLAB in Matlab. Codes are formed by following the tutorials of SCCN (https://sccn.ucsd.edu/wiki/EEGLAB#The_EEGLAB_Tutorial_Outline).
+Includes data analysis codes for EEG data using EEGLAB in Matlab. Codes are created by following the tutorials of SCCN (https://sccn.ucsd.edu/wiki/EEGLAB#The_EEGLAB_Tutorial_Outline).
 
 1. Chapter1-Chapter-4:
   * Chapter1: How to load data to EEGLAB?
